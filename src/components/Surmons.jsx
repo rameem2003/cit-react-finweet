@@ -29,7 +29,7 @@ const Surmons = () => {
                 <li>
                   <img src={clock} alt="" />
 
-                  <p>Friday 23:39 IST Saturday 11:20 ISD</p>
+                  <p>Friday 23:39 IST Saturday 11:20 ISD.</p>
                 </li>
 
                 <li>
