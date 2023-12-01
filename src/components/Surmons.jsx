@@ -14,7 +14,7 @@ const Surmons = () => {
           <h1>of something great</h1>
         </div>
 
-        <div className="row adver">
+        <div className="row add-banner">
           <div className="col-lg-4 col-md-6">
             <div className="text-area">
               <h4>Upcoming Event</h4>

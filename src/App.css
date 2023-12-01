@@ -328,16 +328,16 @@ nav .navbar-nav {
   padding: 128px;
 }
 
-.adver {
+.add-banner {
   margin-top: 64px;
   background-color: #fff5eb;
 }
 
-.adver .text-area {
+.add-banner .text-area {
   padding: 30px;
 }
 
-.adver .text-area h4 {
+.add-banner .text-area h4 {
   color: #dc9853;
   font-size: 12px;
   font-style: normal;
@@ -346,7 +346,7 @@ nav .navbar-nav {
   letter-spacing: 0.96px;
   text-transform: uppercase;
 }
-.adver .text-area h3 {
+.add-banner .text-area h3 {
   width: 210px;
   color: var(--Black, #161722);
   font-size: 24px;
@@ -358,7 +358,7 @@ nav .navbar-nav {
   margin: 16px 0;
 }
 
-.adver .text-area p {
+.add-banner .text-area p {
   color: var(--Black, #161722);
   font-size: 16px;
   font-style: normal;
@@ -366,13 +366,13 @@ nav .navbar-nav {
   line-height: 24px; /* 150% */
 }
 
-.adver .text-area ul {
+.add-banner .text-area ul {
   list-style-type: none;
   padding: 0;
   /* margin-bottom: 32px; */
 }
 
-.adver .text-area ul li {
+.add-banner .text-area ul li {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
@@ -380,7 +380,7 @@ nav .navbar-nav {
   margin-bottom: 16px;
 }
 
-.adver .text-area ul li p {
+.add-banner .text-area ul li p {
   width: 169px;
   color: var(--Black, #161722);
   font-size: 16px;
