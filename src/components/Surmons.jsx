@@ -17,6 +17,11 @@ const Surmons = () => {
         <div className="row add-banner">
           <div className="col-lg-4 col-md-6">
             <div className="text-area">
+              <div className="date">
+                <h3>20</h3>
+                <p>July</p>
+              </div>
+
               <h4>Upcoming Event</h4>
               <h3>WATCH AND LISTEN TO OUR SERMONS</h3>
 

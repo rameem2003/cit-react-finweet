@@ -400,6 +400,37 @@ nav .navbar-nav {
   line-height: 32px; /* 133.333% */
   margin-top: 48px;
 }
+
+#surmons .text-area {
+  position: relative;
+}
+
+#surmons .text-area .date {
+  position: absolute;
+  top: -8px;
+  right: 18px;
+}
+
+#surmons .date h3 {
+  color: var(--Black, #161722);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.24px;
+  text-transform: uppercase;
+  margin: 0;
+  text-align: right;
+}
+#surmons .date p {
+  color: var(--Black, #161722);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+  text-align: right;
+}
 /* surmons end */
 
 /* visit start */
